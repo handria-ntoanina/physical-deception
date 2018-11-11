@@ -9,6 +9,7 @@ However, green agents knows which landmark is targeted but the red or adversary 
 The optimal solution is for the green agents to split up to the two target, and the red agent should follow one of the green agent.
 Whenever, a positive reward here is function of the distance between the green agents and the target landmark wherease
 a negative reward is received proportionally to the distance between the red agent and the target landmark.
+
 ![physical-deception](images/environment.jpg)
 
 ## Content of this repository
